@@ -4,15 +4,12 @@
 
 ## 关于
 
-此代码适配上海大学本硕博一体化选课系统，适配时间2020学年冬季学期。
-
-## 快速开始
-
-```shell script
-$ yarn      # 安装依赖
-$ yarn tsc  # 编译typescript
-```
+此代码适配上海大学本硕博一体化选课系统，适配时间2022学年秋季学期。
 
 ## 许可证
 
-MIT
+LGPL v2.1
+
+## Thanks
+[ZKLlab/ai-schedule-shu](https://github.com/ZKLlab/ai-schedule-shu)
+
