@@ -11,6 +11,6 @@
 
 LGPL v2.1
 
-## Thanks
+## Credits and references
 [ZKLlab/ai-schedule-shu](https://github.com/ZKLlab/ai-schedule-shu)
 
